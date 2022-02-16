@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/starcatchers_catchgame/static/css/main.b18b17fe.chunk.css",
-    "main.js": "/starcatchers_catchgame/static/js/main.027d71b7.chunk.js",
-    "main.js.map": "/starcatchers_catchgame/static/js/main.027d71b7.chunk.js.map",
-    "runtime-main.js": "/starcatchers_catchgame/static/js/runtime-main.b91f0c8e.js",
-    "runtime-main.js.map": "/starcatchers_catchgame/static/js/runtime-main.b91f0c8e.js.map",
-    "static/css/2.f1bd3b54.chunk.css": "/starcatchers_catchgame/static/css/2.f1bd3b54.chunk.css",
-    "static/js/2.7372b25b.chunk.js": "/starcatchers_catchgame/static/js/2.7372b25b.chunk.js",
-    "static/js/2.7372b25b.chunk.js.map": "/starcatchers_catchgame/static/js/2.7372b25b.chunk.js.map",
-    "index.html": "/starcatchers_catchgame/index.html",
-    "precache-manifest.d66e2700f2ca6f1a42e3e6242152ebe9.js": "/starcatchers_catchgame/precache-manifest.d66e2700f2ca6f1a42e3e6242152ebe9.js",
-    "service-worker.js": "/starcatchers_catchgame/service-worker.js",
-    "static/css/2.f1bd3b54.chunk.css.map": "/starcatchers_catchgame/static/css/2.f1bd3b54.chunk.css.map",
-    "static/css/main.b18b17fe.chunk.css.map": "/starcatchers_catchgame/static/css/main.b18b17fe.chunk.css.map",
-    "static/js/2.7372b25b.chunk.js.LICENSE.txt": "/starcatchers_catchgame/static/js/2.7372b25b.chunk.js.LICENSE.txt",
-    "static/media/SC_game_wabisabi-02-min.png": "/starcatchers_catchgame/static/media/SC_game_wabisabi-02-min.45001e8e.png",
-    "static/media/SC_game_wabisabi-06-min.png": "/starcatchers_catchgame/static/media/SC_game_wabisabi-06-min.4d12e096.png"
+    "main.css": "/wabisabifangame/static/css/main.b18b17fe.chunk.css",
+    "main.js": "/wabisabifangame/static/js/main.a80ea1fb.chunk.js",
+    "main.js.map": "/wabisabifangame/static/js/main.a80ea1fb.chunk.js.map",
+    "runtime-main.js": "/wabisabifangame/static/js/runtime-main.75642d6f.js",
+    "runtime-main.js.map": "/wabisabifangame/static/js/runtime-main.75642d6f.js.map",
+    "static/css/2.f1bd3b54.chunk.css": "/wabisabifangame/static/css/2.f1bd3b54.chunk.css",
+    "static/js/2.7a3fcbfb.chunk.js": "/wabisabifangame/static/js/2.7a3fcbfb.chunk.js",
+    "static/js/2.7a3fcbfb.chunk.js.map": "/wabisabifangame/static/js/2.7a3fcbfb.chunk.js.map",
+    "index.html": "/wabisabifangame/index.html",
+    "precache-manifest.348819f3720d03854a0dc8de4e2e7829.js": "/wabisabifangame/precache-manifest.348819f3720d03854a0dc8de4e2e7829.js",
+    "service-worker.js": "/wabisabifangame/service-worker.js",
+    "static/css/2.f1bd3b54.chunk.css.map": "/wabisabifangame/static/css/2.f1bd3b54.chunk.css.map",
+    "static/css/main.b18b17fe.chunk.css.map": "/wabisabifangame/static/css/main.b18b17fe.chunk.css.map",
+    "static/js/2.7a3fcbfb.chunk.js.LICENSE.txt": "/wabisabifangame/static/js/2.7a3fcbfb.chunk.js.LICENSE.txt",
+    "static/media/SC_game_wabisabi-02-min.png": "/wabisabifangame/static/media/SC_game_wabisabi-02-min.45001e8e.png",
+    "static/media/SC_game_wabisabi-06-min.png": "/wabisabifangame/static/media/SC_game_wabisabi-06-min.4d12e096.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b91f0c8e.js",
+    "static/js/runtime-main.75642d6f.js",
     "static/css/2.f1bd3b54.chunk.css",
-    "static/js/2.7372b25b.chunk.js",
+    "static/js/2.7a3fcbfb.chunk.js",
     "static/css/main.b18b17fe.chunk.css",
-    "static/js/main.027d71b7.chunk.js"
+    "static/js/main.a80ea1fb.chunk.js"
   ]
 }
